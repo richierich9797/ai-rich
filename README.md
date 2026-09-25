@@ -1,6 +1,6 @@
-# 刘瑞奇的 AI 跨境电商｜百日百万开源计划
+# AI 跨境电商｜百日百万 ——刘瑞奇
 
-> 我是刘瑞奇。这是我的 AI 跨境电商开源项目：从零开始，公开记录百日百万挑战，逐步分享可复用的方法与工具。
+> 我是刘瑞奇。6年跨境电商亿级卖家，这是我的 AI 跨境电商开源项目：从零开始，公开记录百日百万挑战，逐步分享可复用的方法与工具。
 
 **从抖音来的朋友，欢迎来到刘瑞奇的项目主页。** 认准 GitHub 账号 [@richierich9797](https://github.com/richierich9797) 与本仓库 [liuruiqi-ai-commerce](https://github.com/richierich9797/liuruiqi-ai-commerce)。
 
