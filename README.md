@@ -1,8 +1,8 @@
-# AI 跨境电商｜百日百万 ——刘瑞奇
+# ai-rich｜AI 跨境电商百日百万 ——刘瑞奇
 
 > 我是刘瑞奇。6年跨境电商亿级卖家，这是我的 AI 跨境电商开源项目：从零开始，公开记录百日百万挑战，逐步分享可复用的方法与工具。
 
-**从抖音来的朋友，欢迎来到刘瑞奇的项目主页。** 认准 GitHub 账号 [@richierich9797](https://github.com/richierich9797) 与本仓库 [liuruiqi-ai-commerce](https://github.com/richierich9797/liuruiqi-ai-commerce)。
+**从抖音来的朋友，欢迎来到刘瑞奇的项目主页。** 认准 GitHub 账号 [@richierich9797](https://github.com/richierich9797) 与本仓库 [ai-rich](https://github.com/richierich9797/ai-rich)。
 
 **当前状态：项目筹备，仅搭建仓库框架，尚未发布业务内容或可安装的 Skills。**
 
@@ -32,7 +32,7 @@
 
 可以点击页面右上角的 **Star** 收藏本项目，方便下次找到。
 
-欢迎通过 [Issues](https://github.com/richierich9797/liuruiqi-ai-commerce/issues) 提出需求与建议，或通过 Pull Request 参与共建。参与前请阅读 [贡献说明](CONTRIBUTING.md)。
+欢迎通过 [Issues](https://github.com/richierich9797/ai-rich/issues) 提出需求与建议，或通过 Pull Request 参与共建。参与前请阅读 [贡献说明](CONTRIBUTING.md)。
 
 ## 发起人
 
