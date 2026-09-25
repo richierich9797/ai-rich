@@ -38,7 +38,9 @@
 
 **刘瑞奇（刘瑞奇Richy）**
 
-[X / Twitter](https://x.com/richy_liu0202) · [YouTube](https://www.youtube.com/channel/UCWQfWQ8bGOBTpn3g7MHv1qQ) · [GitHub](https://github.com/richierich9797)
+[抖音](https://www.douyin.com/user/MS4wLjABAAAAsns-O5aJqaE3yUbzXxBLcyFKDq-W2L2VZz-qRaDYNLDet0SxKG2PPAMO4V0gpof0) · [X / Twitter](https://x.com/richy_liu0202) · [YouTube](https://www.youtube.com/channel/UCWQfWQ8bGOBTpn3g7MHv1qQ) · [GitHub](https://github.com/richierich9797)
+
+抖音号：`62609410812`
 
 ## 许可证
 
