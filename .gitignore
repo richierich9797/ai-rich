@@ -1,0 +1,27 @@
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 本地凭证与环境配置
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 私有工作资料与临时文件
+private/
+local/
+tmp/
+.cache/
+*.log
+
+# 依赖与构建产物
+node_modules/
+.venv/
+__pycache__/
+dist/
+build/
