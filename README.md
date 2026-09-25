@@ -36,10 +36,13 @@
 
 ## 发起人
 
-**刘瑞奇（刘瑞奇Richy）** · [GitHub](https://github.com/richierich9797)
+**刘瑞奇（刘瑞奇Richy）**
+
+[X / Twitter](https://x.com/richy_liu0202) · [GitHub](https://github.com/richierich9797)
 
 ## 许可证
 
 本项目采用 [MIT License](LICENSE)。允许使用、修改、分发和商业使用，包括用于经营店铺；再分发时须保留版权声明与许可证。具体条款以 `LICENSE` 为准。
 
 Copyright © 2026 刘瑞奇。
+
