@@ -38,7 +38,7 @@
 
 **刘瑞奇（刘瑞奇Richy）**
 
-[X / Twitter](https://x.com/richy_liu0202) · [GitHub](https://github.com/richierich9797)
+[X / Twitter](https://x.com/richy_liu0202) · [YouTube](https://www.youtube.com/channel/UCWQfWQ8bGOBTpn3g7MHv1qQ) · [GitHub](https://github.com/richierich9797)
 
 ## 许可证
 
